@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sagana V S
 
-🎓 B.Sc Computer Science Student (2022–2025)    
+🎓 MCA Student | B.Sc Computer Science Graduate (2022–2025)    
 ☁️ AWS Certified Cloud Practitioner  
 🗄️ Strong foundation in SQL & Database Management  
 
@@ -39,7 +39,7 @@
 
 ### ☁️ Cloud & Tools
 - AWS (EC2, RDS)
-- Git & GitHub
+- GitHub
 - Selenium IDE
 
 ---
