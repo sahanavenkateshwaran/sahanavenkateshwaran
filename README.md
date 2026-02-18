@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sahana K V
+# Hi there 👋 I'm Sagana V S
 
 🎓 B.Sc Computer Science Student (2022–2025)    
 ☁️ AWS Certified Cloud Practitioner  
