@@ -38,7 +38,7 @@
 - MongoDB
 
 ### ☁️ Cloud & Tools
-- AWS (EC2, RDS)
+- AWS (EC2, RDS, S3..)
 - GitHub
 - Selenium IDE
 
