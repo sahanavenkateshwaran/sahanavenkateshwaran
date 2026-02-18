@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋 I'm Sahana K V
 
-<!--
-**sahanavenkateshwaran/sahanavenkateshwaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Computer Science Student (2022–2025)    
+☁️ AWS Certified Cloud Practitioner  
+🗄️ Strong foundation in SQL & Database Management  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently learning Backend Development
+- 🌱 Exploring Cloud Deployment using AWS (EC2, RDS)
+- 🧪 Experience in Software Testing using Selenium IDE
+- 🏆 Participated in Paper Presentation – "Explainable AI" (2nd Prize)
+- 💡 Interested in Web Development & Real-Time Systems
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Python
+- C
+- SQL
+
+### 🌐 Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+### 🌐 Web & Backend
+- Nodejs
+- HTML, CSS, JavaScript
+
+### 🗄️ Databases
+- MySQL
+- MongoDB
+
+### ☁️ Cloud & Tools
+- AWS (EC2, RDS)
+- Git & GitHub
+- Selenium IDE
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sagana-venkateswaran-481440282
+- Email: sahanavenkateswaran9@gmail.com
+
